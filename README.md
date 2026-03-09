@@ -76,7 +76,8 @@ plt.axis('off')
 <img width="418" height="450" alt="image" src="https://github.com/user-attachments/assets/370570f3-3d6e-421f-842e-34ab72e4ae2e" />
 
 ### Display the result of Closing
-![Uploading image.png…]()
+<img width="424" height="450" alt="image" src="https://github.com/user-attachments/assets/a8183860-7068-43bb-952f-2730598bf958" />
+
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
